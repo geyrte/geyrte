@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @geyrte
+- 👋 Hi, I’m Ali Moallin
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning mobile app development using flutter
 - 💞️ I’m looking to collaborate on softweare development specially mobile app development
